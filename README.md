@@ -3,7 +3,7 @@
     <hr>
     <h2>Quem sou eu?</h2>
     <pre>
-    Olá! Meu nome é <strong>Raony</strong>, mas você pode me chamar de <strong>Rev3rse</strong>.
+    Olá! Você pode me chamar de <strong>Rev3rse</strong>.
     Ano passado, iniciei no ramo do desenvolvimento e programação, e atualmente 
     é a área que eu mais quero aprender. Gosto muito do ramo, e me dedico para
     sempre aprender mais sobre.
@@ -11,7 +11,6 @@
     </pre>
     <ul type="square">
         <li>Rev3rse</li>
-        <li>14 anos</li>
         <li>Estudante</li>
         <li>Aprendido:</li>
         <ul>
