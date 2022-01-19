@@ -17,7 +17,6 @@
             <li>Python | Minha primeira lingaguem de programação...</li>
             <li>HTML5 | Comecei com intenção de aprender a desenvolver websites.</li>
             <li>CSS3 | Aprendi com o mesmo objetivo do HTML.</li>
-            <li>ShellScipt | Estudando atualmente... Gostaria de ter uma base a mais sobre comandos do linux.
         </ul>
         <br>
         <li>Futuramente:</li>
@@ -25,7 +24,7 @@
             <li>JavaScript | Gostaria de aprender pra desenvolver websites</li>
             <li>SQL | Outra lingaguem que tenho interesse</li>
             <li>Java | Quero aprender porque acho legal a idéia de desenvolver aplicativos</li>
-            <li>Ruby |  </li>
+            <li>Ruby | Codar tools em scripts como faço com Python</li>
         </ul>
     </ul>
     <hr>
