@@ -23,6 +23,8 @@
             <li>NodeJS | Aprendi o básico junto com o curso de Ecmas6
         </ul>
         <br>
+        
+        <li>Conhecimento em...</li>
         <ul>
             <li>Sistemas Operacionais baseados em Linux</li>
             <li>Pentest Web</li>
