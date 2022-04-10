@@ -24,7 +24,7 @@
         </ul>
         <br>
         
-        <li>Conhecimento em...</li>
+        <h2>Conhecimento em...</h2>
         <ul>
             <li>Sistemas Operacionais baseados em Linux</li>
             <li>Pentest Web</li>
