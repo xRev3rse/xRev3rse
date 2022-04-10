@@ -20,6 +20,7 @@
             <li>HTML5 | Comecei com intenção de aprender a desenvolver websites</li>
             <li>CSS3 | Aprendi com o mesmo objetivo do HTML</li>
             <li>JavaScript | Estudei o ECMAS6<li>
+            <li>NodeJS | Aprendi o básico junto com o curso de Ecmas6
         </ul>
         <br>
     <hr>
