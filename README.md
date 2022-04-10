@@ -4,29 +4,24 @@
     <h2>Quem sou eu?</h2>
     <pre>
     Olá! Você pode me chamar de <strong>Rev3rse</strong>.
-    Ano passado, iniciei no ramo do desenvolvimento e programação, e atualmente 
+    No começo de 2021, iniciei no ramo do desenvolvimento e programação, e atualmente 
     é a área que eu mais quero aprender. Gosto muito do ramo, e me dedico para
     sempre aprender mais sobre.
-    Também tenho um conhecimento relativo em hacking e T.I em geral.
+    Além da minha paixão por desenvolvimento web, também me interesso em segurança de informação e hacking.
     </pre>
     <ul type="square">
         <li>Rev3rse</li>
+        <li>14 anos</li>
         <li>Estudante</li>
-        <li>Aprendido:</li>
+        <br>
+        <li>Tecnologias que aprendi:</li>
         <ul>
             <li>Python | Minha primeira lingaguem de programação...</li>
             <li>HTML5 | Comecei com intenção de aprender a desenvolver websites.</li>
             <li>CSS3 | Aprendi com o mesmo objetivo do HTML.</li>
+            <li>JavaScript | Estudei o ECMAS6<li>
         </ul>
         <br>
-        <li>Futuramente:</li>
-        <ul>
-            <li>JavaScript | Gostaria de aprender pra desenvolver websites</li>
-            <li>SQL | Outra lingaguem que tenho interesse</li>
-            <li>Java | Quero aprender porque acho legal a idéia de desenvolver aplicativos</li>
-            <li>Ruby | Codar tools em scripts como faço com Python</li>
-        </ul>
-    </ul>
     <hr>
     <h2>Fale comigo!</h2>
     <ul type="circle">
