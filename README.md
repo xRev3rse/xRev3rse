@@ -16,9 +16,9 @@
         <br>
         <li>Tecnologias que aprendi:</li>
         <ul>
-            <li>Python | Minha primeira lingaguem de programação...</li>
-            <li>HTML5 | Comecei com intenção de aprender a desenvolver websites.</li>
-            <li>CSS3 | Aprendi com o mesmo objetivo do HTML.</li>
+            <li>Python | Minha primeira lingaguem de programação</li>
+            <li>HTML5 | Comecei com intenção de aprender a desenvolver websites</li>
+            <li>CSS3 | Aprendi com o mesmo objetivo do HTML</li>
             <li>JavaScript | Estudei o ECMAS6<li>
         </ul>
         <br>
