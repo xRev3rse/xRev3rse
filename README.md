@@ -1,11 +1,11 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá, meu nome é Raony, tenho 14 ano e sou apaixonado por <strong>programação e segurança da informação</strong>!<br>
+  Olá, meu nome é Raony, tenho 14 anos e sou apaixonado por <strong>programação e segurança da informação</strong>!<br>
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Python | JavaScript (EcmaScript & NodeJS) | Lua | HTML5 | CSS3</strong>
+  🦄 Linguagens: <strong>Python | JavaScript (EcmaScript & NodeJS) | Lua | HTML5 | CSS3 (Eu sei que HTML e CSS não são linguagens de programação, dev perseguidor)</strong>
 </p>
 
 <p align="left">
