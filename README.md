@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Python | JavaScript (EcmaScript & NodeJS) | Lua | Bash Script | HTML5 | CSS3</strong>
+  🦄 Linguagens: <strong>Python | JavaScript (EcmaScript & NodeJS) | Lua | Bash Script | PowerShell | HTML5 | CSS3</strong>
 </p>
 
 <p align="left">
